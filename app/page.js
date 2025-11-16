@@ -29,7 +29,7 @@ const page = () => {
     <NextLayout header={1}>
       <section
         className="hero-section hero-1 bg-cover fix"
-        style={{ backgroundImage: 'url("assets/img/hero/01.jpg")' }}
+        style={{ backgroundImage: 'url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgRxOPKAqnW5XMvOI28op3ecQ66kddDCC30A&s")' }}
       >
         <div className="container">
           <div className="row g-4 justify-content-between">
@@ -140,11 +140,30 @@ const page = () => {
         </div>
       </section>
       {/* Service Section Start */}
-      <section className="service-section fix pt-80 pb-80 section-bg">
-        <div className="container">
+      <section 
+        className="service-section fix pt-80 pb-80 section-bg"
+        style={{
+          backgroundImage: 'url("https://media.licdn.com/dms/image/v2/D5622AQH72krYy9qwFw/feedshare-shrink_800/B56ZRgU.gvGoAk-/0/1736782900704?e=2147483647&v=beta&t=P2eQK069taoCnkrGvJv5jW_moONppE2G1Qn2bkHpvsM")',
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          backgroundRepeat: 'no-repeat',
+          position: 'relative'
+        }}
+      >
+        <div style={{
+          position: 'absolute',
+          top: 0,
+          left: 0,
+          right: 0,
+          bottom: 0,
+          backgroundColor: 'rgba(26, 29, 46, 0.85)',
+          zIndex: 1
+        }}></div>
+        <div className="container" style={{position: 'relative', zIndex: 2}}>
           <h4
             className="mb-5 text-white text-center wow fadeInUp"
             data-wow-delay=".3s"
+            style={{fontSize: '32px', lineHeight: '1.5', maxWidth: '900px', margin: '0 auto 50px'}}
           >
             Elevate Every Workspace with Indalio's Precision-Engineered Accessories
           </h4>
@@ -158,8 +177,7 @@ const page = () => {
                   <p>01</p>
                   <h5>
                     <Link href="service-details">
-                      Gas Spring <br />
-                      Monitor Arms
+                      Gas Spring Monitor Arms
                     </Link>
                   </h5>
                   <Link className="arrow-btn" href="service-details">
@@ -180,8 +198,7 @@ const page = () => {
                   <p>02</p>
                   <h5>
                     <Link href="service-details">
-                      Wall-Mounted <br />
-                      Solutions
+                      Wall-Mounted Solutions
                     </Link>
                   </h5>
                   <Link className="arrow-btn" href="service-details">
@@ -202,8 +219,7 @@ const page = () => {
                   <p>03</p>
                   <h5>
                     <Link href="service-details">
-                      Cable Management <br />
-                      Systems
+                      Cable Management Systems
                     </Link>
                   </h5>
                   <Link className="arrow-btn" href="service-details">

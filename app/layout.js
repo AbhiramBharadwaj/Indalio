@@ -6,6 +6,7 @@ import "@css/main.css";
 import "@css/meanmenu.css";
 import "@css/nice-select.css";
 import "@css/swiper-bundle.min.css";
+import "@css/custom-fixes.css";
 import "./globals.css";
 import Preloader from "@/layouts/Preloader";
 

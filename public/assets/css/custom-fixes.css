@@ -1,0 +1,130 @@
+/* Fix for overlapping text and images in service section */
+.service-section .service-items {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    height: 100%;
+    position: relative;
+}
+
+.service-section .service-items:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.service-section .service-items .content {
+    padding: 25px 30px;
+    order: 1;
+    flex-shrink: 0;
+    background-color: #fff;
+    z-index: 2;
+    position: relative;
+    overflow: hidden;
+}
+
+.service-section .service-items .content p {
+    font-size: 14px;
+    color: #8760FD;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.service-section .service-items .content h5 {
+    font-size: 20px;
+    line-height: 1.4;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    min-height: 56px;
+}
+
+.service-section .service-items .content h5 a {
+    color: #1a1d2e;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.service-section .service-items .content h5 a:hover {
+    color: #8760FD;
+}
+
+.service-section .service-items .arrow-btn {
+    width: 40px;
+    height: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f0f0;
+    border-radius: 50%;
+    color: #1a1d2e;
+    transition: all 0.3s ease;
+    text-decoration: none !important;
+}
+
+.service-section .service-items .arrow-btn::before {
+    display: none !important;
+}
+
+.service-section .service-items:hover .arrow-btn {
+    background-color: #8760FD;
+    color: #fff;
+    transform: translateX(0) rotate(0deg);
+}
+
+.service-section .service-items .thumb {
+    padding: 0;
+    order: 2;
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+}
+
+.service-section .service-items .thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 0;
+    transition: transform 0.4s ease;
+}
+
+.service-section .service-items:hover .thumb img {
+    transform: scale(1.05);
+}
+
+/* Fix section title spacing */
+.service-section h4.text-white {
+    font-size: 28px;
+    line-height: 1.5;
+    padding: 0 15px;
+    margin-bottom: 50px !important;
+}
+
+@media (max-width: 991px) {
+    .service-section .service-items .content {
+        padding: 20px;
+    }
+    
+    .service-section h4.text-white {
+        font-size: 24px;
+        margin-bottom: 40px !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .service-section .service-items .thumb {
+        height: 200px;
+    }
+    
+    .service-section h4.text-white {
+        font-size: 20px;
+        line-height: 1.4;
+    }
+    
+    .service-section .service-items .content h5 {
+        font-size: 18px;
+        min-height: auto;
+    }
+}
