@@ -30,7 +30,7 @@ const page = () => {
       <section
         className="hero-section hero-1 bg-cover fix"
         style={{ 
-          backgroundImage: 'url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfVbOveBmglNG_5hCZa5fy3SwwThK9UGmb7g&s")',
+          backgroundImage: 'url("assets/img/products/WhatsApp Image 2025-11-17 at 22.54.12_47212899.jpg")',
           paddingTop: '100px',
           paddingBottom: '100px',
           minHeight: 'auto'
@@ -177,20 +177,38 @@ const page = () => {
               className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
               data-wow-delay=".3s"
             >
-              <div className="service-items">
-                <div className="content">
-                  <p>01</p>
-                  <h5>
-                    <Link href="service-details">
+              <div className="service-items" style={{
+                background: 'white',
+                borderRadius: '12px',
+                overflow: 'hidden',
+                boxShadow: '0 4px 20px rgba(0,0,0,0.1)',
+                transition: 'transform 0.3s ease',
+                display: 'flex',
+                flexDirection: 'column'
+              }}>
+                <div className="thumb" style={{order: 1, height: '280px', overflow: 'hidden'}}>
+                  <img src="/assets/img/products/monitor-arm-4.jpg" alt="Gas Spring Monitor Arm" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
+                </div>
+                <div className="content" style={{order: 2, padding: '30px', textAlign: 'left'}}>
+                  <p style={{color: '#6C5CE7', fontSize: '14px', fontWeight: 'bold', marginBottom: '10px'}}>01</p>
+                  <h5 style={{color: '#1a1d2e', fontSize: '20px', fontWeight: '600', marginBottom: '15px'}}>
+                    <Link href="service-details" style={{color: 'inherit', textDecoration: 'none'}}>
                       Gas Spring Monitor Arms
                     </Link>
                   </h5>
-                  <Link className="arrow-btn" href="service-details">
+                  <Link className="arrow-btn" href="service-details" style={{
+                    display: 'inline-flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    width: '45px',
+                    height: '45px',
+                    background: '#f0eeff',
+                    borderRadius: '50%',
+                    color: '#6C5CE7',
+                    transition: 'all 0.3s ease'
+                  }}>
                     <i className="far fa-arrow-right" />
                   </Link>
-                </div>
-                <div className="thumb">
-                  <img src="/assets/img/products/monitor-arm-4.jpg" alt="Gas Spring Monitor Arm" />
                 </div>
               </div>
             </div>
@@ -198,20 +216,38 @@ const page = () => {
               className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
               data-wow-delay=".5s"
             >
-              <div className="service-items">
-                <div className="content">
-                  <p>02</p>
-                  <h5>
-                    <Link href="service-details">
+              <div className="service-items" style={{
+                background: 'white',
+                borderRadius: '12px',
+                overflow: 'hidden',
+                boxShadow: '0 4px 20px rgba(0,0,0,0.1)',
+                transition: 'transform 0.3s ease',
+                display: 'flex',
+                flexDirection: 'column'
+              }}>
+                <div className="thumb" style={{order: 1, height: '280px', overflow: 'hidden'}}>
+                  <img src="/assets/img/products/monitor-arm-6.jpg" alt="Wall-Mounted Monitor Arm" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
+                </div>
+                <div className="content" style={{order: 2, padding: '30px', textAlign: 'left'}}>
+                  <p style={{color: '#6C5CE7', fontSize: '14px', fontWeight: 'bold', marginBottom: '10px'}}>02</p>
+                  <h5 style={{color: '#1a1d2e', fontSize: '20px', fontWeight: '600', marginBottom: '15px'}}>
+                    <Link href="service-details" style={{color: 'inherit', textDecoration: 'none'}}>
                       Wall-Mounted Solutions
                     </Link>
                   </h5>
-                  <Link className="arrow-btn" href="service-details">
+                  <Link className="arrow-btn" href="service-details" style={{
+                    display: 'inline-flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    width: '45px',
+                    height: '45px',
+                    background: '#f0eeff',
+                    borderRadius: '50%',
+                    color: '#6C5CE7',
+                    transition: 'all 0.3s ease'
+                  }}>
                     <i className="far fa-arrow-right" />
                   </Link>
-                </div>
-                <div className="thumb">
-                  <img src="/assets/img/products/monitor-arm-6.jpg" alt="Wall-Mounted Monitor Arm" />
                 </div>
               </div>
             </div>
@@ -219,20 +255,38 @@ const page = () => {
               className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
               data-wow-delay=".7s"
             >
-              <div className="service-items">
-                <div className="content">
-                  <p>03</p>
-                  <h5>
-                    <Link href="service-details">
+              <div className="service-items" style={{
+                background: 'white',
+                borderRadius: '12px',
+                overflow: 'hidden',
+                boxShadow: '0 4px 20px rgba(0,0,0,0.1)',
+                transition: 'transform 0.3s ease',
+                display: 'flex',
+                flexDirection: 'column'
+              }}>
+                <div className="thumb" style={{order: 1, height: '280px', overflow: 'hidden'}}>
+                  <img src="/assets/img/products/monitor-arm-3.jpg" alt="Cable Management Monitor Arm" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
+                </div>
+                <div className="content" style={{order: 2, padding: '30px', textAlign: 'left'}}>
+                  <p style={{color: '#6C5CE7', fontSize: '14px', fontWeight: 'bold', marginBottom: '10px'}}>03</p>
+                  <h5 style={{color: '#1a1d2e', fontSize: '20px', fontWeight: '600', marginBottom: '15px'}}>
+                    <Link href="service-details" style={{color: 'inherit', textDecoration: 'none'}}>
                       Cable Management Systems
                     </Link>
                   </h5>
-                  <Link className="arrow-btn" href="service-details">
+                  <Link className="arrow-btn" href="service-details" style={{
+                    display: 'inline-flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    width: '45px',
+                    height: '45px',
+                    background: '#f0eeff',
+                    borderRadius: '50%',
+                    color: '#6C5CE7',
+                    transition: 'all 0.3s ease'
+                  }}>
                     <i className="far fa-arrow-right" />
                   </Link>
-                </div>
-                <div className="thumb">
-                  <img src="/assets/img/products/monitor-arm-3.jpg" alt="Cable Management Monitor Arm" />
                 </div>
               </div>
             </div>
