@@ -97,9 +97,9 @@ const page = () => {
                     </h2>
                   </div>
                   <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".4s">
-                    Sed ut perspiciatis unde omnis iste natus error voluptatem
-                    accusantium doloremque laudantium, totam rem aperiam, eaque
-                    ipsa quae
+                    Transform your workspace with Indalio's premium monitor arms. Our ergonomic 
+                    solutions increase employee comfort and productivity while maintaining 
+                    professional aesthetics throughout your office.
                   </p>
                   <div className="icon-items wow fadeInUp" data-wow-delay=".3s">
                     <div className="dot" />
@@ -245,9 +245,8 @@ const page = () => {
                     </h2>
                   </div>
                   <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                    Sed ut perspiciatis unde omnis iste natus voluptatem
-                    accusantium <br />
-                    doloremque laudantium, totam rem aperiam, eaque
+                    From consultation to installation, Indalio provides comprehensive support <br />
+                    for all your monitor mounting needs across corporate and healthcare environments.
                   </p>
                   <div
                     className="planning-items mb-2 wow fadeInUp"
@@ -357,9 +356,8 @@ const page = () => {
                     </h2>
                   </div>
                   <p className="text-white wow fadeInUp" data-wow-delay=".5s">
-                    Sed ut perspiciatis unde omnis iste natus voluptatem
-                    accusantiue <br />
-                    doloremque laudantium, totam rem aperiam
+                    Stay updated with the latest ergonomic solutions and workspace innovations. <br />
+                    Subscribe to receive exclusive offers and industry insights from Indalio.
                   </p>
                   <div className="form-clt wow fadeInUp" data-wow-delay=".7s">
                     <input

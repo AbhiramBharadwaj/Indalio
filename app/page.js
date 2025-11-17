@@ -498,8 +498,8 @@ const page = () => {
                 </h2>
               </div>
               <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                Sed ut perspiciatis unde omnis iste natus error sit volupta
-                temes <br /> accusantium doloremque laudantium, totam rem
+                Our experienced team of engineers and specialists ensures every Indalio monitor arm <br /> 
+                meets the highest standards of quality, durability, and ergonomic performance.
               </p>
             </div>
             <div

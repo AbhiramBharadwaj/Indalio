@@ -22,8 +22,8 @@ const WorkingProcess = () => {
                 <span className="sub-title">Step 01</span>
                 <h3>Discovery &amp; Analysis</h3>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error <br />{" "}
-                  voluptatem accusantium
+                  Understanding workspace requirements and ergonomic <br />{" "}
+                  needs for optimal monitor positioning
                 </p>
               </div>
             </div>
@@ -47,8 +47,8 @@ const WorkingProcess = () => {
                 <span className="sub-title">Step 02</span>
                 <h3>Competitor Analysis</h3>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error <br />{" "}
-                  voluptatem accusantium
+                  Evaluating workspace layout and selecting the best <br />{" "}
+                  monitor arm solution for your needs
                 </p>
               </div>
               <div className="icon">
@@ -65,8 +65,8 @@ const WorkingProcess = () => {
                 <span className="sub-title">Step 03</span>
                 <h3>Strategy &amp; Execution</h3>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error <br />{" "}
-                  voluptatem accusantium
+                  Precision manufacturing with quality checks at every <br />{" "}
+                  stage ensuring durability and performance
                 </p>
               </div>
             </div>
@@ -90,8 +90,8 @@ const WorkingProcess = () => {
                 <span className="sub-title">Step 04</span>
                 <h3>Get 3x Results</h3>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error <br />{" "}
-                  voluptatem accusantium
+                  Professional installation support and ongoing customer <br />{" "}
+                  service for lasting satisfaction
                 </p>
               </div>
               <div className="icon">

@@ -941,11 +941,10 @@ export const TestiContentSlider = () => {
               Michael M. Griffin <span>/ CEO &amp; Founder</span>
             </h3>
             <h4>
-              Sed ut perspiciatis unde omnis iste natus error voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae ab illo inventore veritatis et quasi architecto beatae vitae
-              dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-              aspernatur aut odit aut fugit
+              The monitor arms from Indalio have completely transformed our workspace ergonomics. 
+              The gas spring mechanism is smooth and reliable, making adjustments effortless throughout the day. 
+              Installation was straightforward, and the build quality exceeded our expectations. 
+              Our team productivity has noticeably improved since implementation.
             </h4>
           </div>
         </SwiperSlide>
@@ -955,11 +954,9 @@ export const TestiContentSlider = () => {
               Michael M. Griffin <span>/ CEO &amp; Founder</span>
             </h3>
             <h4>
-              Sed ut perspiciatis unde omnis iste natus error voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae ab illo inventore veritatis et quasi architecto beatae vitae
-              dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-              aspernatur aut odit aut fugit
+              Outstanding product quality and excellent customer service. We equipped our entire trading floor 
+              with Indalio monitor arms and the difference is remarkable. The cable management system is well-designed 
+              and keeps our desks organized. Highly recommend for any professional workspace looking to improve ergonomics.
             </h4>
           </div>
         </SwiperSlide>
@@ -969,11 +966,9 @@ export const TestiContentSlider = () => {
               Michael M. Griffin <span>/ CEO &amp; Founder</span>
             </h3>
             <h4>
-              Sed ut perspiciatis unde omnis iste natus error voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae ab illo inventore veritatis et quasi architecto beatae vitae
-              dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-              aspernatur aut odit aut fugit
+              We've been using Indalio monitor arms for over two years in our healthcare facility. 
+              The durability is exceptional and the ease of adjustment helps our staff maintain proper posture 
+              during long shifts. The investment has paid off in reduced workplace fatigue and increased comfort.
             </h4>
           </div>
         </SwiperSlide>
@@ -983,11 +978,9 @@ export const TestiContentSlider = () => {
               Michael M. Griffin <span>/ CEO &amp; Founder</span>
             </h3>
             <h4>
-              Sed ut perspiciatis unde omnis iste natus error voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae ab illo inventore veritatis et quasi architecto beatae vitae
-              dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-              aspernatur aut odit aut fugit
+              Perfect solution for our multi-monitor setup. The dual monitor arms hold our displays securely 
+              and the range of motion is impressive. Installation support was professional and the team guided us 
+              through the entire process. These are the best monitor arms we've used in our 15 years of operations.
             </h4>
           </div>
         </SwiperSlide>
@@ -997,11 +990,10 @@ export const TestiContentSlider = () => {
               Michael M. Griffin <span>/ CEO &amp; Founder</span>
             </h3>
             <h4>
-              Sed ut perspiciatis unde omnis iste natus error voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae ab illo inventore veritatis et quasi architecto beatae vitae
-              dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-              aspernatur aut odit aut fugit
+              Exceptional engineering and thoughtful design make Indalio monitor arms stand out. 
+              The smooth articulation and sturdy construction inspire confidence. Our team appreciates 
+              the flexibility to customize viewing angles throughout the workday. A premium product 
+              that delivers real value for modern workspaces.
             </h4>
           </div>
         </SwiperSlide>

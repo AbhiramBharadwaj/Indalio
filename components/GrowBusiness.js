@@ -34,10 +34,10 @@ const GrowBusiness = ({ paddingTop = 0 }) => {
                   </h2>
                 </div>
                 <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam, eaque
-                  ipsa quae ab illo inventore veritatis et quasi architecto
-                  beatae vitae dicta.
+                  Indalio's premium monitor arms have helped thousands of businesses across India 
+                  transform their workspaces. Our German-engineered solutions combine precision manufacturing 
+                  with ergonomic excellence, delivering measurable improvements in employee comfort and productivity 
+                  for corporate offices, healthcare facilities, and trading environments.
                 </p>
                 <div className="grow-counting-area">
                   <div
@@ -105,10 +105,10 @@ export const GrowBusiness2 = ({ bg }) => {
                   </h2>
                 </div>
                 <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam, eaque
-                  ipsa quae ab illo inventore veritatis et quasi architecto
-                  beatae vitae dicta.
+                  With over 25 years of manufacturing excellence from Ludhiana, Punjab, Indalio delivers 
+                  innovative monitor mounting solutions designed for modern workspaces. Our commitment to quality 
+                  and precision engineering has made us a trusted partner for businesses seeking to enhance 
+                  workplace ergonomics and productivity across India.
                 </p>
                 <div className="grow-percent-area">
                   <div className="row g-4">

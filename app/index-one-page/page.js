@@ -235,8 +235,8 @@ const page = () => {
                     </h2>
                   </div>
                   <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                    Sed ut perspiciatis unde omnis iste natus error sit volupta
-                    temes accusantium doloremque laudantium, totam rem
+                    Indalio manufactures premium monitor arms combining German engineering with 
+                    Indian craftsmanship, delivering ergonomic excellence for modern workspaces.
                   </p>
                   <ul className="about-list wow fadeInUp" data-wow-delay=".3s">
                     <li>
@@ -469,8 +469,8 @@ const page = () => {
                 </h2>
               </div>
               <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                Sed ut perspiciatis unde omnis iste natus error sit volupta
-                temes <br /> accusantium doloremque laudantium, totam rem
+                Our experienced team of engineers and specialists ensures every Indalio monitor arm <br /> 
+                meets the highest standards of quality, durability, and ergonomic performance.
               </p>
             </div>
             <div

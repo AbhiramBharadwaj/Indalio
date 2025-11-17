@@ -22,9 +22,8 @@ const page = () => {
                   Product Designer
                 </h1>
                 <p className="wow fadeInUp" data-wow-delay=".5s">
-                  Sed ut perspiciatis unde omnis iste natus voluptatem
-                  accusantium <br />
-                  doloremque laudantium, totam rem aperiam
+                  Transform your workspace with Indalio's premium monitor arms. <br />
+                  Engineered in Ludhiana, trusted across India for superior ergonomics.
                 </p>
                 <div className="button-items">
                   <div
@@ -112,10 +111,10 @@ const page = () => {
                 </h2>
               </div>
               <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-                quae ab illo inventore veritatis et quasi architecto beatae
-                vitae dicta sunt explicabo emo enim ipsam
+                With over 25 years of manufacturing excellence from Ludhiana, Punjab, Indalio delivers 
+                innovative monitor mounting solutions designed for modern workspaces. Our commitment to quality 
+                and precision engineering has made us a trusted partner for businesses seeking to enhance 
+                workplace ergonomics and productivity across corporate offices, healthcare, and trading environments.
               </p>
               <Link
                 href="about"

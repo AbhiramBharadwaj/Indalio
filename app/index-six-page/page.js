@@ -99,7 +99,7 @@ const page = () => {
                 <div className="content">
                   <h5>Create an Account</h5>
                   <p>
-                    Sed perspiciatis unde natus error volupta temes accu totam
+                    Connect with Indalio to explore our ergonomic monitor mounting solutions designed for your workspace
                   </p>
                 </div>
               </div>
@@ -126,7 +126,7 @@ const page = () => {
                 <div className="content">
                   <h5>Generate your content</h5>
                   <p>
-                    Sed perspiciatis unde natus error volupta temes accu totam
+                    Select the perfect monitor arm configuration that fits your office, healthcare, or trading setup
                   </p>
                 </div>
               </div>
@@ -153,7 +153,7 @@ const page = () => {
                 <div className="content">
                   <h5>Get Final Results</h5>
                   <p>
-                    Sed perspiciatis unde natus error volupta temes accu totam
+                    Experience improved productivity with our quality-manufactured ergonomic solutions from Ludhiana, Punjab
                   </p>
                 </div>
               </div>
@@ -185,8 +185,7 @@ const page = () => {
                     <Link href="service-details">Blog Post &amp; Stories</Link>
                   </h3>
                   <p>
-                    Sed ut perspiciatis unde omnis iste natus error voluptatem
-                    accusan doloremque totam
+                    Ergonomic monitor arms designed for office environments to reduce neck strain and enhance workspace comfort
                   </p>
                   <Link href="service-details" className="link-btn">
                     Read More <i className="far fa-arrow-right" />
@@ -207,8 +206,7 @@ const page = () => {
                     <Link href="service-details">Social Media Content</Link>
                   </h3>
                   <p>
-                    Sed ut perspiciatis unde omnis iste natus error voluptatem
-                    accusan doloremque totam
+                    Professional-grade monitor mounting solutions for healthcare facilities ensuring optimal viewing angles and patient safety
                   </p>
                   <Link href="service-details" className="link-btn">
                     Read More <i className="far fa-arrow-right" />
@@ -229,8 +227,7 @@ const page = () => {
                     <Link href="service-details">eCommerce Copy</Link>
                   </h3>
                   <p>
-                    Sed ut perspiciatis unde omnis iste natus error voluptatem
-                    accusan doloremque totam
+                    Multi-monitor solutions for trading desks maximizing screen real estate while maintaining ergonomic positioning
                   </p>
                   <Link href="service-details" className="link-btn">
                     Read More <i className="far fa-arrow-right" />
@@ -251,8 +248,7 @@ const page = () => {
                     <Link href="service-details">Ad Targeting tips</Link>
                   </h3>
                   <p>
-                    Sed ut perspiciatis unde omnis iste natus error voluptatem
-                    accusan doloremque totam
+                    Customizable monitor arm configurations backed by 25+ years of manufacturing excellence from India
                   </p>
                   <Link href="service-details" className="link-btn">
                     Read More <i className="far fa-arrow-right" />
@@ -273,8 +269,7 @@ const page = () => {
                     <Link href="service-details">Content Rewriter</Link>
                   </h3>
                   <p>
-                    Sed ut perspiciatis unde omnis iste natus error voluptatem
-                    accusan doloremque totam
+                    Heavy-duty monitor arms built with premium materials ensuring long-lasting durability and smooth adjustability
                   </p>
                   <Link href="service-details" className="link-btn">
                     Read More <i className="far fa-arrow-right" />
@@ -297,8 +292,7 @@ const page = () => {
                     </Link>
                   </h3>
                   <p>
-                    Sed ut perspiciatis unde omnis iste natus error voluptatem
-                    accusan doloremque totam
+                    Pan India delivery of ergonomic workspace solutions with dedicated customer support and installation guidance
                   </p>
                   <Link href="service-details" className="link-btn">
                     Read More <i className="far fa-arrow-right" />
@@ -338,9 +332,7 @@ const page = () => {
                     </h2>
                   </div>
                   <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                    Sed ut perspiciatis unde omnis iste natus sit voluptatem
-                    accusantium <br /> doloremque laudantium, totam rem aperiam
-                    eaque ipsa
+                    With 25+ years of manufacturing expertise from Ludhiana, Punjab, Indalio delivers <br /> ergonomic monitor mounting solutions that transform workspaces across India
                   </p>
                   <div className="feature-box-area">
                     <div
@@ -392,9 +384,7 @@ const page = () => {
                     </h2>
                   </div>
                   <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                    Sed ut perspiciatis unde omnis iste natus sit voluptatem
-                    accusantium <br /> doloremque laudantium, totam rem aperiam
-                    eaque ipsa
+                    Indalio monitor arms optimize workspace ergonomics reducing strain and <br /> improving productivity with quality-crafted solutions for offices and healthcare facilities
                   </p>
                   <ul className="list-items wow fadeInUp" data-wow-delay=".3s">
                     <li>
@@ -510,10 +500,7 @@ const page = () => {
                         data-bs-parent="#accordion"
                       >
                         <div className="accordion-body">
-                          Sed ut perspiciatis unde omnis iste natus error sit
-                          voluptatem accusantium doloremque laudan tiueaque quae
-                          abillo inventore veritatis et quasi architecto beatae
-                          vitae dicta explicabo voluptatem voluptas aspernatur
+                          Ergonomic monitor arms improve posture, reduce neck and back strain, and increase productivity by allowing optimal screen positioning. Indalio's solutions are designed for modern workspaces.
                         </div>
                       </div>
                     </div>
@@ -539,10 +526,7 @@ const page = () => {
                         data-bs-parent="#accordion"
                       >
                         <div className="accordion-body">
-                          Sed ut perspiciatis unde omnis iste natus error sit
-                          voluptatem accusantium doloremque laudan tiueaque quae
-                          abillo inventore veritatis et quasi architecto beatae
-                          vitae dicta explicabo voluptatem voluptas aspernatur
+                          Indalio monitor arms are manufactured in Ludhiana, Punjab with premium materials ensuring durability. Our 25+ years of experience guarantees reliable quality and smooth adjustability.
                         </div>
                       </div>
                     </div>
@@ -568,10 +552,7 @@ const page = () => {
                         data-bs-parent="#accordion"
                       >
                         <div className="accordion-body">
-                          Sed ut perspiciatis unde omnis iste natus error sit
-                          voluptatem accusantium doloremque laudan tiueaque quae
-                          abillo inventore veritatis et quasi architecto beatae
-                          vitae dicta explicabo voluptatem voluptas aspernatur
+                          Our monitor arms support most standard monitors and can be customized for specific requirements. We provide solutions for single, dual, and multi-monitor setups across various industries.
                         </div>
                       </div>
                     </div>
@@ -597,10 +578,7 @@ const page = () => {
                         data-bs-parent="#accordion"
                       >
                         <div className="accordion-body">
-                          Sed ut perspiciatis unde omnis iste natus error sit
-                          voluptatem accusantium doloremque laudan tiueaque quae
-                          abillo inventore veritatis et quasi architecto beatae
-                          vitae dicta explicabo voluptatem voluptas aspernatur
+                          Yes, Indalio offers pan India delivery with comprehensive installation guidance. Our experienced team provides dedicated customer support throughout your purchase and setup process.
                         </div>
                       </div>
                     </div>
@@ -626,10 +604,7 @@ const page = () => {
                         data-bs-parent="#accordion"
                       >
                         <div className="accordion-body">
-                          Sed ut perspiciatis unde omnis iste natus error sit
-                          voluptatem accusantium doloremque laudan tiueaque quae
-                          abillo inventore veritatis et quasi architecto beatae
-                          vitae dicta explicabo voluptatem voluptas aspernatur
+                          Absolutely! We serve offices, healthcare facilities, and trading environments across India. Our ergonomic solutions are trusted by diverse industries nationwide.
                         </div>
                       </div>
                     </div>
@@ -663,10 +638,7 @@ const page = () => {
                         data-bs-parent="#accordion"
                       >
                         <div className="accordion-body">
-                          Sed ut perspiciatis unde omnis iste natus error sit
-                          voluptatem accusantium doloremque laudan tiueaque quae
-                          abillo inventore veritatis et quasi architecto beatae
-                          vitae dicta explicabo voluptatem voluptas aspernatur
+                          Installation is straightforward with included mounting hardware and detailed instructions. Our customer support team is available to assist with any setup questions or concerns.
                         </div>
                       </div>
                     </div>
@@ -692,10 +664,7 @@ const page = () => {
                         data-bs-parent="#accordion"
                       >
                         <div className="accordion-body">
-                          Sed ut perspiciatis unde omnis iste natus error sit
-                          voluptatem accusantium doloremque laudan tiueaque quae
-                          abillo inventore veritatis et quasi architecto beatae
-                          vitae dicta explicabo voluptatem voluptas aspernatur
+                          Indalio's monitor arms feature smooth gas-spring mechanisms, cable management systems, and full range of motion for tilt, swivel, and height adjustment ensuring optimal ergonomics.
                         </div>
                       </div>
                     </div>
@@ -721,10 +690,7 @@ const page = () => {
                         data-bs-parent="#accordion"
                       >
                         <div className="accordion-body">
-                          Sed ut perspiciatis unde omnis iste natus error sit
-                          voluptatem accusantium doloremque laudan tiueaque quae
-                          abillo inventore veritatis et quasi architecto beatae
-                          vitae dicta explicabo voluptatem voluptas aspernatur
+                          We offer various models supporting different weight capacities and monitor sizes. Contact our team to discuss your specific requirements for the best configuration.
                         </div>
                       </div>
                     </div>
@@ -750,10 +716,7 @@ const page = () => {
                         data-bs-parent="#accordion"
                       >
                         <div className="accordion-body">
-                          Sed ut perspiciatis unde omnis iste natus error sit
-                          voluptatem accusantium doloremque laudan tiueaque quae
-                          abillo inventore veritatis et quasi architecto beatae
-                          vitae dicta explicabo voluptatem voluptas aspernatur
+                          Yes, our monitor arms come with warranty coverage and quality assurance. We stand behind our products with reliable after-sales support and service.
                         </div>
                       </div>
                     </div>
@@ -779,10 +742,7 @@ const page = () => {
                         data-bs-parent="#accordion"
                       >
                         <div className="accordion-body">
-                          Sed ut perspiciatis unde omnis iste natus error sit
-                          voluptatem accusantium doloremque laudan tiueaque quae
-                          abillo inventore veritatis et quasi architecto beatae
-                          vitae dicta explicabo voluptatem voluptas aspernatur
+                          Contact us through our website or reach out to our Ludhiana office. We'll help you select the right ergonomic monitor solution for your workspace needs.
                         </div>
                       </div>
                     </div>

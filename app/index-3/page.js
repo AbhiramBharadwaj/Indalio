@@ -26,9 +26,8 @@ const page = () => {
                   your <span>Business</span>
                 </h1>
                 <p className="wow fadeInUp" data-wow-delay=".6s">
-                  Sed ut perspiciatis unde omnis iste natus voluptatem
-                  accusantium <br />
-                  doloremque laudantium, totam rem aperiam
+                  Premium monitor arms engineered for superior ergonomics <br />
+                  and workspace optimization across India's leading offices
                 </p>
                 <div className="hero-button">
                   <Link
@@ -209,9 +208,9 @@ const page = () => {
                     </h2>
                   </div>
                   <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                    Sed ut perspiciatis unde omnis iste natus voluptatem
-                    accusantium doloremque laudantium, totam rem aperiam eaque
-                    ipsa quae
+                    With over 25 years of manufacturing excellence from Ludhiana, Indalio delivers 
+                    innovative monitor mounting solutions that enhance workplace comfort and productivity 
+                    for businesses nationwide.
                   </p>
                   <div className="about-counter-area">
                     <div className="row g-4">
@@ -309,8 +308,8 @@ const page = () => {
                     &amp; product Sales ?
                   </h2>
                   <p className="wow fadeInUp" data-wow-delay=".6s">
-                    Sed ut perspiciatis unde omnis iste natus voluptatem <br />
-                    accusantium doloremque laudantium totam
+                    Experience German engineering quality with Indian manufacturing excellence. <br />
+                    Contact Indalio for customized ergonomic workspace solutions today.
                   </p>
                   <Link
                     href="contact"
