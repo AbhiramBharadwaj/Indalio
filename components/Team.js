@@ -48,9 +48,9 @@ const Team = () => {
               </div>
               <div className="team-content">
                 <h4>
-                  <Link href="team-details">Eduardo D. Howard</Link>
+                  <Link href="team-details">Rajesh Kumar</Link>
                 </h4>
-                <p>CEO &amp; Founder</p>
+                <p>Founder &amp; CEO</p>
               </div>
             </div>
           </div>
@@ -88,9 +88,9 @@ const Team = () => {
               </div>
               <div className="team-content">
                 <h4>
-                  <Link href="team-details">Jeremiah D. Marshall</Link>
+                  <Link href="team-details">Priya Sharma</Link>
                 </h4>
-                <p>Business Consultant</p>
+                <p>Quality Control Manager</p>
               </div>
             </div>
           </div>
@@ -128,9 +128,9 @@ const Team = () => {
               </div>
               <div className="team-content">
                 <h4>
-                  <Link href="team-details">Jeremy B. Forsberg</Link>
+                  <Link href="team-details">Amit Singh</Link>
                 </h4>
-                <p>Senior Manager</p>
+                <p>Chief Engineer</p>
               </div>
             </div>
           </div>
@@ -168,9 +168,9 @@ const Team = () => {
               </div>
               <div className="team-content">
                 <h4>
-                  <Link href="team-details">Duane V. McCormick</Link>
+                  <Link href="team-details">Vikram Patel</Link>
                 </h4>
-                <p>Junior Consultant</p>
+                <p>Production Head</p>
               </div>
             </div>
           </div>

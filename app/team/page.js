@@ -17,22 +17,18 @@ const page = () => {
                 About The Team
               </span>
               <h2 className="wow fadeInUp" data-wow-delay=".3s">
-                Passionate &amp; Dedicated <br /> Team Member to delivering{" "}
+                Expert Team Dedicated to <br /> Manufacturing Excellence in{" "}
                 <br />
-                exceptional results
+                Ergonomic Workspace Solutions
               </h2>
             </div>
             <div className="text-items">
               <p className="mb-3 wow fadeInUp" data-wow-delay=".3s">
-                Which revolutionized our industry. This forward-thinking
-                approach allowed us <br />
-                to stay at the forefront of innovation and better serve
+                At Indalio, our team combines engineering expertise with manufacturing precision <br />
+                to deliver world-class monitor arms and ergonomic accessories from our Ludhiana facility
               </p>
               <p className="wow fadeInUp" data-wow-delay=".5s">
-                As technology evolved, so did we. In 1995, we embraced mention a
-                significant <br /> technological advancement or change], which
-                revolutionized our industry. <br /> This forward-thinking
-                approach allowed us to stay at the forefront
+                From design engineers to quality control specialists, every team member <br /> is committed to producing innovative workspace solutions that meet international <br /> standards while maintaining competitive pricing for the Indian market
               </p>
             </div>
           </div>
@@ -94,9 +90,9 @@ const page = () => {
                 </div>
                 <div className="team-content">
                   <h4>
-                    <Link href="team-details">Eduardo D. Howard</Link>
+                    <Link href="team-details">Rajesh Kumar</Link>
                   </h4>
-                  <p>CEO &amp; Founder</p>
+                  <p>Founder & CEO</p>
                 </div>
               </div>
             </div>
@@ -134,9 +130,9 @@ const page = () => {
                 </div>
                 <div className="team-content">
                   <h4>
-                    <Link href="team-details">Jeremiah D. Marshall</Link>
+                    <Link href="team-details">Amit Singh</Link>
                   </h4>
-                  <p>Business Consultant</p>
+                  <p>Chief Engineer</p>
                 </div>
               </div>
             </div>
@@ -174,9 +170,9 @@ const page = () => {
                 </div>
                 <div className="team-content">
                   <h4>
-                    <Link href="team-details">Jeremy B. Forsberg</Link>
+                    <Link href="team-details">Priya Sharma</Link>
                   </h4>
-                  <p>Senior Manager</p>
+                  <p>Quality Control Manager</p>
                 </div>
               </div>
             </div>
@@ -214,9 +210,9 @@ const page = () => {
                 </div>
                 <div className="team-content">
                   <h4>
-                    <Link href="team-details">Duane V. McCormick</Link>
+                    <Link href="team-details">Vikram Patel</Link>
                   </h4>
-                  <p>Junior Consultant</p>
+                  <p>Production Head</p>
                 </div>
               </div>
             </div>
@@ -254,9 +250,9 @@ const page = () => {
                 </div>
                 <div className="team-content">
                   <h4>
-                    <Link href="team-details">James H. Richardson</Link>
+                    <Link href="team-details">Neha Gupta</Link>
                   </h4>
-                  <p>Digital Marketer</p>
+                  <p>Sales & Marketing Head</p>
                 </div>
               </div>
             </div>
@@ -294,9 +290,9 @@ const page = () => {
                 </div>
                 <div className="team-content">
                   <h4>
-                    <Link href="team-details">Duane V. McCormick</Link>
+                    <Link href="team-details">Suresh Reddy</Link>
                   </h4>
-                  <p>Junior Consultant</p>
+                  <p>Operations Manager</p>
                 </div>
               </div>
             </div>
@@ -334,9 +330,9 @@ const page = () => {
                 </div>
                 <div className="team-content">
                   <h4>
-                    <Link href="team-details">Wayne D. Rodriguez</Link>
+                    <Link href="team-details">Kavita Verma</Link>
                   </h4>
-                  <p>JWeb Developer</p>
+                  <p>Design Specialist</p>
                 </div>
               </div>
             </div>
@@ -374,9 +370,9 @@ const page = () => {
                 </div>
                 <div className="team-content">
                   <h4>
-                    <Link href="team-details">Theodore E. Johnson</Link>
+                    <Link href="team-details">Rahul Mehta</Link>
                   </h4>
-                  <p>Manager</p>
+                  <p>Installation Specialist</p>
                 </div>
               </div>
             </div>
@@ -392,7 +388,7 @@ const page = () => {
               Clients Feedback
             </span>
             <h2 className="wow fadeInUp" data-wow-delay=".3s">
-              We’ve 1250+ Global Clients Say Us
+              What Our Clients Say About Indalio
             </h2>
           </div>
           <div className="testimonial-wrapper pt-5">

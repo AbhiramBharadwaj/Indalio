@@ -5,7 +5,7 @@ import Link from "next/link";
 const page = () => {
   return (
     <NextLayout>
-      <Breadcrumb pageName="Website Design & Development" />
+      <Breadcrumb pageName="Corporate Office Setup - Bangalore" />
       <section className="project-details-section fix section-padding">
         <div className="container">
           <div className="project-details-wrapper">
@@ -22,69 +22,66 @@ const page = () => {
               </div>
               <div className="col-lg-7">
                 <div className="project-details-content">
-                  <h5>Design, Branding</h5>
+                  <h5>Ergonomic Workspace Transformation</h5>
                   <h2>
-                    Introduction Of Projects <br /> Overview
+                    500+ Dual Monitor Arms <br /> Deployment Project
                   </h2>
                   <p className="mt-4">
-                    Designing a digital product and branding project involves
-                    several key steps and <br /> considerations to create a
-                    successful and cohesive user experience. Below is an <br />{" "}
-                    overview of the project details and the typical steps
-                    involved
+                    One of our largest corporate installations to date, this project involved deploying over 500 <br /> dual monitor arms for a leading IT company in Bangalore. The project showcases our <br /> capability to handle large-scale installations while maintaining consistent quality and <br /> meeting tight deadlines.
                   </p>
-                  <h4 className="mt-50">Project Initiation</h4>
+                  <h4 className="mt-50">Project Scope & Planning</h4>
                   <ul className="project-list">
                     <li>
                       <i className="far fa-check" />
-                      Define the project scope, goals, and objectives
+                      Comprehensive site assessment across 5 floors of office space
                     </li>
                     <li>
                       <i className="far fa-check" />
-                      Identify the target audience and market research.
+                      Custom mounting solutions for varied desk configurations
                     </li>
                     <li>
                       <i className="far fa-check" />
-                      Determine the budget, timeline, and available resources.
+                      Phased installation to minimize workplace disruption
                     </li>
                   </ul>
-                  <h4 className="mt-4">Project Initiation</h4>
+                  <h4 className="mt-4">Implementation Highlights</h4>
                   <ul className="project-list">
                     <li>
                       <i className="far fa-check" />
-                      Conduct user research to understand the needs and
-                      preferences of the target audience
+                      Gas spring monitor arms supporting 17-32 inch displays
                     </li>
                     <li>
                       <i className="far fa-check" />
-                      Analyze competitors and industry trends.
+                      Integrated cable management for clean workspace aesthetics
                     </li>
                     <li>
                       <i className="far fa-check" />
-                      Create user personas and user journeys to guide design
-                      decisions.
+                      VESA-compatible mounts ensuring universal display compatibility
                     </li>
                   </ul>
                 </div>
               </div>
               <div className="col-lg-5">
                 <div className="project-information">
-                  <h4>Project Information's</h4>
+                  <h4>Project Information</h4>
                   <ul>
                     <li>
-                      Clients <span>Myron S.</span>
+                      Client <span>IT Services Company</span>
                     </li>
                     <li>
-                      Category <span>Design &amp; Dev</span>
+                      Category <span>Corporate Office</span>
                     </li>
                     <li>
-                      Date <span> October, 2024</span>
+                      Date <span> September, 2025</span>
                     </li>
                     <li>
-                      Location <span> New York</span>
+                      Location <span> Bangalore, Karnataka</span>
                     </li>
                     <li>
-                      Duration <span> 1 month</span>
+                      Duration <span> 3 weeks</span>
+                    </li>
+                    <li>
+                      Units Installed <span> 500+ Arms</span>
                     </li>
                   </ul>
                   <div className="social-icon d-flex align-items-center">
@@ -121,42 +118,41 @@ const page = () => {
                 </div>
               </div>
             </div>
-            <h4 className="mb-3">Branding</h4>
+            <h4 className="mb-3">Installation Process</h4>
             <ul className="p-list">
               <li>
                 <i className="far fa-check" />
-                Develop or refine the brand identity, including logo, colors,
-                typography, and brand guidelines.
+                Pre-installation desk measurements and compatibility checks for optimal fit
               </li>
               <li>
                 <i className="far fa-check" />
-                Ensure the brand reflects the values and messaging of the
-                product
+                Professional installation by certified Indalio technicians ensuring proper setup
+              </li>
+              <li>
+                <i className="far fa-check" />
+                Post-installation training for employees on adjustment and maintenance
               </li>
             </ul>
-            <h4 className="mt-50">User Experience (UX) Design:</h4>
+            <h4 className="mt-50">Project Outcomes & Benefits:</h4>
             <p className="mt-3">
-              Throughout the project, effective communication and collaboration
-              among the project team members, including designers, developers,
-              marketers, and stakeholders, are crucial for its success. Regular
-              reviews and feedback loops should be established to ensure that
-              the digital product and branding align with the project's goals
-              and objectives.
+              The successful completion of this project resulted in a transformed workspace with significantly improved ergonomics. The client reported increased employee satisfaction, reduced complaints of neck and back strain, and better space utilization. The phased installation approach ensured minimal disruption to daily operations, and our team completed the entire project ahead of schedule.
             </p>
             <ul className="p-list mt-4">
               <li>
                 <i className="far fa-check" />
-                Create wireframes and prototypes to visualize the product's
-                layout and functionality
+                Enhanced employee comfort with adjustable monitor positioning reducing strain
               </li>
               <li>
                 <i className="far fa-check" />
-                Design the user interface (UI) based on the wireframes,
-                incorporating the brand identity.
+                Improved desk space utilization with monitors elevated off surfaces
               </li>
               <li>
                 <i className="far fa-check" />
-                Conduct usability testing to refine the design and user flow
+                Cleaner workspace aesthetics through integrated cable management systems
+              </li>
+              <li>
+                <i className="far fa-check" />
+                Increased productivity through optimized dual-monitor setups for developers
               </li>
             </ul>
           </div>
@@ -167,9 +163,9 @@ const page = () => {
           <div className="section-title text-center">
             <span className="sub-content">
               <img src="assets/img/bale.png" alt="img" />
-              Work Gallery
+              More Success Stories
             </span>
-            <h2>Explore Featured Projects</h2>
+            <h2>Other Featured Installations</h2>
           </div>
           <div className="row justify-content-center">
             <div className="col-lg-9">
@@ -180,11 +176,11 @@ const page = () => {
                       <img src="assets/img/project/05.jpg" alt="img" />
                     </div>
                     <div className="project-content">
-                      <p>Product Design</p>
+                      <p>Security Operations Center</p>
                       <h3>
                         <Link href="project-details">
-                          Business Task Management <br />
-                          Dashboard Design
+                          Wall-Mounted CCTV Monitor <br />
+                          Setup for Control Room
                         </Link>
                       </h3>
                     </div>
@@ -196,11 +192,11 @@ const page = () => {
                       <img src="assets/img/project/06.jpg" alt="img" />
                     </div>
                     <div className="project-content">
-                      <p>Website Design</p>
+                      <p>Trading Firm - Mumbai</p>
                       <h3>
                         <Link href="project-details">
-                          Business Consulting Web <br />
-                          Explorations Design
+                          Complete Workspace <br />
+                          Transformation Project
                         </Link>
                       </h3>
                     </div>

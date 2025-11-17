@@ -5,16 +5,16 @@ import Link from "next/link";
 const page = () => {
   return (
     <NextLayout>
-      <Breadcrumb pageName="Popular Projects" pageTitle="Popular Projects" />
+      <Breadcrumb pageName="Our Projects" pageTitle="Installation Projects" />
       <section className="project-section fix section-padding">
         <div className="container">
           <div className="section-title text-center">
             <span className="sub-content wow fadeInUp">
               <img src="assets/img/bale.png" alt="img" />
-              Work Gallery
+              Success Stories
             </span>
             <h2 className="wow fadeInUp" data-wow-delay=".3s">
-              Explore Featured Projects
+              Our Monitor Arm Installation Projects Across India
             </h2>
           </div>
           <div className="row justify-content-center">
@@ -29,11 +29,11 @@ const page = () => {
                       <img src="assets/img/project/05.jpg" alt="img" />
                     </div>
                     <div className="project-content">
-                      <p>Product Design</p>
+                      <p>Corporate Office - Bangalore</p>
                       <h3>
                         <Link href="project-details">
-                          Business Task Management <br />
-                          Dashboard Design
+                          500+ Dual Monitor Arms <br />
+                          Deployed for IT Company
                         </Link>
                       </h3>
                     </div>
@@ -48,11 +48,11 @@ const page = () => {
                       <img src="assets/img/project/06.jpg" alt="img" />
                     </div>
                     <div className="project-content">
-                      <p>Website Design</p>
+                      <p>Security Operations Center</p>
                       <h3>
                         <Link href="project-details">
-                          Business Consulting Web <br />
-                          Explorations Design
+                          Wall-Mounted CCTV Monitor <br />
+                          Setup for Control Room
                         </Link>
                       </h3>
                     </div>
@@ -67,10 +67,10 @@ const page = () => {
                       <img src="assets/img/project/07.jpg" alt="img" />
                     </div>
                     <div className="project-content">
-                      <p>Product Design</p>
+                      <p>Trading Firm - Mumbai</p>
                       <h3>
                         <Link href="project-details">
-                          Mobile Applications Design
+                          Complete Workspace Transformation with Gas Spring Arms
                         </Link>
                       </h3>
                     </div>
@@ -85,10 +85,10 @@ const page = () => {
                       <img src="assets/img/project/08.jpg" alt="img" />
                     </div>
                     <div className="project-content">
-                      <p>Website Design</p>
+                      <p>Startup Office - Hyderabad</p>
                       <h3>
                         <Link href="project-details">
-                          Furniture Website Design
+                          Ergonomic Monitor Setup for Tech Startup
                         </Link>
                       </h3>
                     </div>
@@ -103,10 +103,10 @@ const page = () => {
                       <img src="assets/img/project/09.jpg" alt="img" />
                     </div>
                     <div className="project-content">
-                      <p>Product Design</p>
+                      <p>BPO Center - Pune</p>
                       <h3>
                         <Link href="project-details">
-                          Business Card Design and <br /> Branding Identity
+                          200+ Monitor Arms for <br /> Call Center Operations
                         </Link>
                       </h3>
                     </div>
@@ -121,10 +121,10 @@ const page = () => {
                       <img src="assets/img/project/10.jpg" alt="img" />
                     </div>
                     <div className="project-content">
-                      <p>Website Design</p>
+                      <p>Government Office - Delhi</p>
                       <h3>
                         <Link href="project-details">
-                          Modern T-Shirt Design and <br /> Branding Identity
+                          Dual Screen Setup for <br /> Administrative Efficiency
                         </Link>
                       </h3>
                     </div>
@@ -139,10 +139,10 @@ const page = () => {
                       <img src="assets/img/project/11.jpg" alt="img" />
                     </div>
                     <div className="project-content">
-                      <p>Product Design</p>
+                      <p>Educational Institute - Chennai</p>
                       <h3>
                         <Link href="project-details">
-                          Mobile Applications Design
+                          Computer Lab Monitor Arms Installation
                         </Link>
                       </h3>
                     </div>
@@ -157,10 +157,10 @@ const page = () => {
                       <img src="assets/img/project/12.jpg" alt="img" />
                     </div>
                     <div className="project-content">
-                      <p>Product Design</p>
+                      <p>Manufacturing Facility - Ludhiana</p>
                       <h3>
                         <Link href="project-details">
-                          Furniture Website Design
+                          Quality Control Station Monitor Setup
                         </Link>
                       </h3>
                     </div>
