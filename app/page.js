@@ -811,7 +811,7 @@ const page = () => {
             >
               <div className="case-study-items">
                 <div className="thumb">
-                  <img src="assets/img/products/monitor-arm-14.png" alt="img" />
+                  <img src="assets/img/products/ChatGPT Image Nov 13, 2025 at 11_49_37 AM-min.png" alt="img" />
                 </div>
                 <div className="content">
                   <p>Ergonomic Upgrade</p>
@@ -878,7 +878,7 @@ const page = () => {
                 </div>
                 <div
                   className="news-image bg-cover"
-                  style={{ backgroundImage: 'url("assets/img/news/01.jpg")' }}
+                  style={{ backgroundImage: 'url("assets/img/products/monitor-arm-17.png")' }}
                 />
               </div>
             </div>
@@ -901,7 +901,7 @@ const page = () => {
                 </div>
                 <div
                   className="news-image bg-cover"
-                  style={{ backgroundImage: 'url("assets/img/news/02.jpg")' }}
+                  style={{ backgroundImage: 'url("assets/img/products/monitor-arm-18.png")' }}
                 />
               </div>
             </div>
@@ -924,7 +924,7 @@ const page = () => {
                 </div>
                 <div
                   className="news-image bg-cover"
-                  style={{ backgroundImage: 'url("assets/img/news/03.jpg")' }}
+                  style={{ backgroundImage: 'url("assets/img/products/monitor-arm-19.png")' }}
                 />
               </div>
             </div>

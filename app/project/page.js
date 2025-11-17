@@ -26,7 +26,7 @@ const page = () => {
                 >
                   <div className="project-card-items">
                     <div className="project-image">
-                      <img src="assets/img/project/05.jpg" alt="img" />
+                      <img src="assets/img/products/monitor-arm-9.png" alt="img" />
                     </div>
                     <div className="project-content">
                       <p>Corporate Office - Bangalore</p>
@@ -45,7 +45,7 @@ const page = () => {
                 >
                   <div className="project-card-items">
                     <div className="project-image">
-                      <img src="assets/img/project/06.jpg" alt="img" />
+                      <img src="assets/img/products/monitor-arm-8.png" alt="img" />
                     </div>
                     <div className="project-content">
                       <p>Security Operations Center</p>
@@ -64,7 +64,7 @@ const page = () => {
                 >
                   <div className="project-card-items">
                     <div className="project-image">
-                      <img src="assets/img/project/07.jpg" alt="img" />
+                      <img src="assets/img/products/monitor-arm-10.png" alt="img" />
                     </div>
                     <div className="project-content">
                       <p>Trading Firm - Mumbai</p>
@@ -82,7 +82,7 @@ const page = () => {
                 >
                   <div className="project-card-items">
                     <div className="project-image">
-                      <img src="assets/img/project/08.jpg" alt="img" />
+                      <img src="assets/img/products/monitor-arm-16.png" alt="img" />
                     </div>
                     <div className="project-content">
                       <p>Startup Office - Hyderabad</p>
@@ -100,7 +100,7 @@ const page = () => {
                 >
                   <div className="project-card-items">
                     <div className="project-image">
-                      <img src="assets/img/project/09.jpg" alt="img" />
+                      <img src="assets/img/products/monitor-arm-17.png" alt="img" />
                     </div>
                     <div className="project-content">
                       <p>BPO Center - Pune</p>
@@ -118,7 +118,7 @@ const page = () => {
                 >
                   <div className="project-card-items">
                     <div className="project-image">
-                      <img src="assets/img/project/10.jpg" alt="img" />
+                      <img src="assets/img/products/monitor-arm-18.png" alt="img" />
                     </div>
                     <div className="project-content">
                       <p>Government Office - Delhi</p>
@@ -136,7 +136,7 @@ const page = () => {
                 >
                   <div className="project-card-items">
                     <div className="project-image">
-                      <img src="assets/img/project/11.jpg" alt="img" />
+                      <img src="assets/img/products/monitor-arm-19.png" alt="img" />
                     </div>
                     <div className="project-content">
                       <p>Educational Institute - Chennai</p>
@@ -154,7 +154,7 @@ const page = () => {
                 >
                   <div className="project-card-items">
                     <div className="project-image">
-                      <img src="assets/img/project/12.jpg" alt="img" />
+                      <img src="assets/img/products/monitor-arm-15.png" alt="img" />
                     </div>
                     <div className="project-content">
                       <p>Manufacturing Facility - Ludhiana</p>

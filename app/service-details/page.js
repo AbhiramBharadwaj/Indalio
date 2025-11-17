@@ -118,7 +118,7 @@ const page = () => {
               }} className="product-card-hover">
                 <div style={{position: 'relative', height: '350px', overflow: 'hidden'}}>
                   <img 
-                    src="/assets/img/products/monitor-arm-2.jpg" 
+                    src="/assets/img/products/monitor-arm-7.jpg" 
                     alt="Gas Spring Dual Monitor Arm" 
                     style={{
                       width: '100%', 
